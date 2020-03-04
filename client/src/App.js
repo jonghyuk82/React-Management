@@ -8,10 +8,7 @@ import TableBody from '@material-ui/core/TableBody';
 import TableRow from '@material-ui/core/TableRow';
 import TableCell from '@material-ui/core/TableCell';
 import CircularProgress from '@material-ui/core/CircularProgress';
-
 import { withStyles } from '@material-ui/core/styles';
-
-
 
 const styles = theme => ({
   root:{
